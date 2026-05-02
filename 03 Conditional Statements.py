@@ -46,7 +46,7 @@ else:
 
 
 #WAP to check if a number enterd by user is odd or even.
-num = int(input("enter number : "))
+num = int(input("enter a number : "))
 if(num %2 == 0 ):
     print("EVEN")
 else:
