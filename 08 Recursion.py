@@ -8,12 +8,3 @@
 #     show(n - 1)
 
 # show(5)
-
-n = int(input("enter number : "))
-def odd_even():
-    if(n%2 == 0):
-        print("EVEN")
-    else:
-     print("ODD")
-
-odd_even()
